@@ -26,4 +26,5 @@ It's quite simple actually:
 1. close genshin  
 2. open the cheat you just downloaded  
 3. set your keybinds  
-4. have fun
+4. open genshin  
+5. have fun
