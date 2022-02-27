@@ -2,7 +2,7 @@ So, after a lot of time learning how to make cheats I came up with the idea of m
 
 ![cheat image](https://user-images.githubusercontent.com/91756430/155865825-49b6c304-0e90-4e4e-959b-7d3521c64b5e.png)  
 # Features  
-as you can see in the picture, you can set your own keybinds so that it is more practical for anyone.
+As you can see in the picture above, you can set your own keybinds so that it is more practical for everyone.
 cheat features:  
 god mode;  
 stamina;  
@@ -17,3 +17,9 @@ health ESP;
 level ESP;  
 block enemies;  
 and more.  
+#How to use:  
+It's quite simple avtually:  
+1. close genshin  
+2. open the cheat you just downloaded  
+3. set your keybinds  
+4. have fun
